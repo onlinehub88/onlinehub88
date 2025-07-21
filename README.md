@@ -79,7 +79,6 @@
 - BGP, EVPN VxLAN, SD-WAN, FRR, network automation, simulation (GNS3, Eve-NG, ContainerLab)
 - Scripting: Bash, Python, REST APIs
 
-## 🌐 Let's Connect
 ---
 
 > *“Always learning. Always building. Ready for the next challenge!”*
