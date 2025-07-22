@@ -8,7 +8,6 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 9+ years experience building scalable, high-performance solutions
 - 🧠 AI/LLM, Full-Stack, Blockchain, Mobile, DevOps & Cloud
 - 💬 Available for full-time roles, consulting, or impactful projects
 - 🕒 Flexible timezone, excellent communication
