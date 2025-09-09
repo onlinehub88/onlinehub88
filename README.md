@@ -1,74 +1,164 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!;Sr.+DevOps+%7C+AI+%7C+Full-Stack+%7C+Mobile+Engineer;Always+learning+new+things" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=DevOps+%7C+AI+%7C+Full-Stack+Engineer;Cloud+Architecture+%26+Automation;AI%2FLLM+Solutions+%26+MLOps;Building+Scalable+Systems" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- ☁️ DevOps, Cloud & Network Automation | 🧠 AI/LLM | 🖥️ Full-Stack | 📱 Mobile
-- 💬 Open to full-time roles, consulting, or impactful projects
-- 🕒 Flexible timezone, excellent communication, always learning
+> **Senior Software Engineer** specializing in **DevOps**, **AI/ML**, and **Full-Stack Development**
 
----
-
-# ☁️ DevOps, Cloud & Network Automation
-
-**Cloud Platforms & Tools:**  
-AWS (EC2, ECS, Lambda, EKS, Fargate, RDS, DynamoDB, S3, CloudFront, VPC, IAM, WAF, Shield, Aurora, ElastiCache), Azure, GCP, OpenStack
-
-**Serverless & Infrastructure:**  
-Serverless Framework, API Gateway, AppSync, Step Functions, EventBridge
-
-**CI/CD & Infrastructure as Code:**  
-Jenkins, GitHub Actions, GitLab CI, Bitbucket Pipelines, Terraform, AWS CDK, CloudFormation
-
-**Automation & Monitoring:**  
-Ansible (AWX, Tower), Nornir, Batfish, Docker, Kubernetes, ELK Stack, Prometheus, CloudWatch, New Relic
-
-**Networking:**  
-BGP, EVPN VxLAN, SD-WAN, FRR, network automation, simulation (GNS3, Eve-NG, ContainerLab), Bash/Python/REST API scripting
+- 🔧 **DevOps & Cloud Architecture** - Building scalable, automated infrastructure
+- 🧠 **AI/ML Engineering** - LLMs, MLOps, and intelligent automation solutions  
+- 💻 **Full-Stack Development** - End-to-end application development
+- 📱 **Mobile Engineering** - Cross-platform and native mobile solutions
+- 🌍 **Remote-First** - Flexible timezone, excellent communication
+- 💼 **Open to** - Full-time roles, consulting, and impactful projects
 
 ---
 
-# ⚡ Artificial Intelligence, LLM & Data
+## 🛠️ Tech Stack
 
-**Key Technologies & Frameworks:**  
-OpenAI, Llama, Mistral, Falcon, ChatGPT, LangChain, RAG, HuggingFace, CrewAI, RetellAI, VapiAI, Dialogflow, Deepgram, Twilio/Telnyx, Voiceflow, Zoho
+### ☁️ **DevOps & Cloud Infrastructure**
 
-**Libraries & APIs:**  
-Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, LightGBM, CatBoost, SpaCy, NLTK, OpenAI API, FastAPI, Django REST, Streamlit, Flask
+<div align="center">
 
-**MLOps & Data Engineering:**  
-MLflow, DVC, Airflow, Prefect, Docker, ETL, pipeline automation, feature engineering, data wrangling
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-**AI Services:**  
-- LLM & AI Chatbots (custom, fine-tuning, RAG, integrations)  
-- Voice AI (Voximplant, VAPI), workflow/email automation  
-- Deep learning, NLP, computer vision, time series  
-- End-to-end AI: MVP to enterprise, MLOps, compliance, AI product strategy
+</div>
+
+**Cloud Platforms:** AWS (EC2, ECS, Lambda, EKS, RDS, S3, CloudFront) • Azure • GCP • OpenStack  
+**Infrastructure as Code:** Terraform • AWS CDK • CloudFormation • Ansible  
+**CI/CD:** Jenkins • GitHub Actions • GitLab CI • Bitbucket Pipelines  
+**Monitoring:** ELK Stack • Prometheus • Grafana • CloudWatch • New Relic  
+**Networking:** BGP • EVPN VxLAN • SD-WAN • Network Automation
+
+### 🤖 **AI/ML & Data Engineering**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+
+</div>
+
+**LLM & AI:** OpenAI • Llama • Mistral • LangChain • RAG • HuggingFace • CrewAI  
+**ML Libraries:** PyTorch • TensorFlow • Scikit-learn • XGBoost • Pandas • NumPy  
+**MLOps:** MLflow • DVC • Airflow • Prefect • Model Deployment & Monitoring  
+**Voice AI:** RetellAI • VapiAI • Deepgram • Twilio • Voiceflow  
+**Specialties:** Custom Chatbots • Fine-tuning • Computer Vision • NLP • Time Series
+
+### 💻 **Full-Stack Development**
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+**Frontend:** React • Next.js • Vue • Svelte • Angular • TypeScript • Tailwind CSS  
+**Backend:** Node.js • Python (Django/FastAPI) • Go • C# • PHP (Laravel)  
+**Databases:** PostgreSQL • MySQL • MongoDB • Redis • Firebase • Supabase  
+**Mobile:** React Native • Flutter • Expo • iOS (Swift) • Android (Kotlin)  
+**Blockchain:** Solidity • Rust • Web3.js • DeFi • Smart Contracts
 
 ---
 
-# 🖥️ Full-Stack & Blockchain Development
+## 📊 GitHub Analytics
 
-**Frontend:**  
-React / Next.js, Vue / Nuxt / Svelte / Angular, Tailwind CSS, MaterialUI, Styled Components, Three.js
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-**Backend:**  
-Node.js / Express / NestJS, Python (Django, FastAPI, Flask), PHP (Laravel), Go, C#, PostgreSQL, MySQL, MongoDB, Firebase, Supabase
-
-**Blockchain & Web3:**  
-Solidity, Rust, NFT, DeFi, smart contracts, DApps, Web3.js, Ethers.js
-
----
-
-# 📱 Mobile App Development
-
-React Native, Expo, Flutter/Dart, Ionic, Android (Kotlin/Java), iOS (Swift/Obj-C), cross-platform, PWA, native & hybrid apps
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
-> *“Always learning. Always building. Ready for the next challenge!”*
+## 🎯 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ **Infrastructure & DevOps**
+- **Cloud Architecture** - Multi-cloud, hybrid solutions
+- **Container Orchestration** - Kubernetes, Docker Swarm
+- **Infrastructure Automation** - Terraform, Ansible, CDK
+- **CI/CD Pipelines** - GitOps, automated deployments
+- **Monitoring & Observability** - Full-stack monitoring
+
+</td>
+<td width="50%">
+
+### 🧠 **AI & Machine Learning**
+- **LLM Integration** - Custom AI solutions, RAG systems
+- **MLOps** - Model deployment, monitoring, versioning
+- **Voice AI** - Conversational AI, speech processing
+- **Computer Vision** - Image processing, object detection
+- **Data Engineering** - ETL pipelines, feature engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 What I Bring
+
+\`\`\`yaml
+Philosophy: "Automate everything, monitor everything, improve everything"
+Approach: Infrastructure as Code + AI-First Development
+Focus: Scalable, maintainable, and intelligent systems
+Collaboration: Remote-first, clear communication, agile methodologies
+\`\`\`
+
+---
+
+## 📈 Current Focus
+
+- 🔥 **AI-Powered DevOps** - Intelligent automation and monitoring
+- 🚀 **Serverless Architectures** - Event-driven, scalable solutions  
+- 🤖 **LLM Applications** - Custom AI solutions for business problems
+- 📊 **MLOps Platforms** - End-to-end ML lifecycle management
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+**Always learning, always building, ready for the next challenge!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
