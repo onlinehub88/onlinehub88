@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=DevOps+%7C+AI+%7C+Full-Stack+Engineer;Cloud+Architecture+%26+Automation;AI%2FLLM+Solutions+%26+MLOps;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-//[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-//[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-//[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -84,19 +76,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎯 Core Expertise
 
 <table>
@@ -151,10 +130,6 @@ Collaboration: Remote-first, clear communication, agile methodologies
 ### 💬 Let's Connect!
 
 **Always learning, always building, ready for the next challenge!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
 </div>
 
 ---
