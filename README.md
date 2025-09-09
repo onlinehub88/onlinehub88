@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=DevOps+%7C+AI+%7C+Full-Stack+Engineer;Cloud+Architecture+%26+Automation;AI%2FLLM+Solutions+%26+MLOps;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
----
-
 ## 🚀 About Me
 
 > **Senior Software Engineer** specializing in **DevOps**, **AI/ML**, and **Full-Stack Development**
