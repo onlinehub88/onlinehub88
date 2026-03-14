@@ -8,43 +8,38 @@
 
 ---
 
-## 🛠️ Skills
-
-- **Languages:** Python, Java, JavaScript, TypeScript, Go, SQL
-- **AI & GenAI:** LangChain, LangGraph, CrewAI, MCP, RAG, embeddings, semantic search, vector DBs (Pinecone, FAISS), prompt engineering, LLM routing (GPT-4, Claude, Mistral, Gemini), LangSmith, multi-agent workflows, speech I/O (Retell.ai, LiveKit, Deepgram, ElevenLabs)
-- **Backend:** FastAPI, Flask, Spring Boot, Django, Node.js, Express, REST/GraphQL, Celery, Redis, WebSockets
-- **Frontend:** React, Next.js (App Router), React Native, TypeScript, Redux Toolkit, responsive UIs
-- **Cloud & DevOps:** AWS (S3, Lambda, Kinesis, Step Functions, EventBridge, RDS, DynamoDB, EMR, IAM, ECS/EKS), GCP, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions), Vercel, Railway
-- **Data:** PostgreSQL, MySQL, DynamoDB, Redshift, ETL pipelines, Supabase, real-time analytics
-- **Practices:** SOC 2 compliance, AES-256 encryption, TDD, Agile/Scrum, Jira, Git, system observability, cross-functional collaboration
-
----
-
 ## 💻 Full-Stack Development
 
-- Frontend: React, Next.js, Angular, TypeScript, Tailwind CSS
-- Backend: Python (Django, Flask, FastAPI), Node.js (NestJS, ExpressJS)
-- Mobile: React Native, Expo
-- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- **Languages:** Python, Java, JavaScript, TypeScript, Go, SQL
+- **Frontend:** React, Next.js (App Router), Angular, React Native, TypeScript, Redux Toolkit, Tailwind CSS, responsive UIs
+- **Backend:** FastAPI, Flask, Spring Boot, Django, Node.js, Express, NestJS, REST/GraphQL, Celery, Redis, WebSockets
+- **Mobile:** React Native, Expo
+- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Supabase
+- **Data:** ETL pipelines, real-time analytics
+- **Practices:** TDD, Agile/Scrum, Jira, Git, cross-functional collaboration
 
 ---
 
 ## 🤖 AI Engineering
 
-- LLMs: OpenAI, Llama, Mistral, HuggingFace, LangChain, RAG
-- ML Libraries: PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy
-- MLOps: MLflow, DVC, Airflow, Prefect
-- Specialties: Custom Chatbots, Fine-tuning, Computer Vision, NLP, Time Series
+- **Languages:** Python, Java, JavaScript, TypeScript, Go, SQL
+- **AI & GenAI:** LangChain, LangGraph, CrewAI, MCP, RAG, embeddings, semantic search, vector DBs (Pinecone, FAISS), prompt engineering, LLM routing (GPT-4, Claude, Mistral, Gemini), LangSmith, multi-agent workflows, speech I/O (Retell.ai, LiveKit, Deepgram, ElevenLabs)
+- **LLMs:** OpenAI, Llama, Mistral, HuggingFace, LangChain, RAG
+- **ML Libraries:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy
+- **MLOps:** MLflow, DVC, Airflow, Prefect
+- **Specialties:** Custom Chatbots, Fine-tuning, Computer Vision, NLP, Time Series
+- **Practices:** SOC 2 compliance, AES-256 encryption, system observability
 
 ---
 
 ## ☁️ DevOps & Cloud Infrastructure
 
-- Cloud: AWS, Azure, GCP
-- IaC: Terraform, AWS CDK, CloudFormation, Ansible
-- CI/CD: GitHub Actions, GitLab CI, Jenkins
-- Containerization: Docker, Kubernetes
-- Monitoring: Prometheus, Grafana, CloudWatch
+- **Cloud:** AWS (S3, Lambda, Kinesis, Step Functions, EventBridge, RDS, DynamoDB, EMR, IAM, ECS/EKS), GCP, Azure, Vercel, Railway
+- **IaC:** Terraform, AWS CDK, CloudFormation, Ansible
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+- **Containerization:** Docker, Kubernetes
+- **Monitoring:** Prometheus, Grafana, CloudWatch
+- **Practices:** SOC 2 compliance, AES-256 encryption, system observability, cross-functional collaboration
 
 ---
 
