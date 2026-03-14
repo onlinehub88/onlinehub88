@@ -8,6 +8,18 @@
 
 ---
 
+## 🛠️ Skills
+
+- **Languages:** Python, Java, JavaScript, TypeScript, Go, SQL
+- **AI & GenAI:** LangChain, LangGraph, CrewAI, MCP, RAG, embeddings, semantic search, vector DBs (Pinecone, FAISS), prompt engineering, LLM routing (GPT-4, Claude, Mistral, Gemini), LangSmith, multi-agent workflows, speech I/O (Retell.ai, LiveKit, Deepgram, ElevenLabs)
+- **Backend:** FastAPI, Flask, Spring Boot, Django, Node.js, Express, REST/GraphQL, Celery, Redis, WebSockets
+- **Frontend:** React, Next.js (App Router), React Native, TypeScript, Redux Toolkit, responsive UIs
+- **Cloud & DevOps:** AWS (S3, Lambda, Kinesis, Step Functions, EventBridge, RDS, DynamoDB, EMR, IAM, ECS/EKS), GCP, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions), Vercel, Railway
+- **Data:** PostgreSQL, MySQL, DynamoDB, Redshift, ETL pipelines, Supabase, real-time analytics
+- **Practices:** SOC 2 compliance, AES-256 encryption, TDD, Agile/Scrum, Jira, Git, system observability, cross-functional collaboration
+
+---
+
 ## 💻 Full-Stack Development
 
 - Frontend: React, Next.js, Angular, TypeScript, Tailwind CSS
