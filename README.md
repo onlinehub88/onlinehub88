@@ -1,23 +1,58 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=DevOps+%7C+AI+%7C+Full-Stack+Engineer;Cloud+Architecture+%26+Automation;AI%2FLLM+Solutions+%26+MLOps;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;AI+Engineering;DevOps+%26+Cloud+Infrastructure" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 👋 About Me
 
-> **Senior Software Engineer** specializing in **DevOps**, **AI/ML**, and **Full-Stack Development**
-
-- 🔧 **DevOps & Cloud Architecture** - Building scalable, automated infrastructure
-- 🧠 **AI/ML Engineering** - LLMs, MLOps, and intelligent automation solutions  
-- 💻 **Full-Stack Development** - End-to-end application development
-- 📱 **Mobile Engineering** - Cross-platform and native mobile solutions
-- 🌍 **Remote-First** - Flexible timezone, excellent communication
-- 💼 **Open to** - Full-time roles, consulting, and impactful projects
+> **Software Engineer** specializing in **Full-Stack Development**, **AI Engineering**, and **DevOps/Cloud Infrastructure**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Full-Stack Development
 
-### ☁️ **DevOps & Cloud Infrastructure**
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+</div>
+
+- Frontend: React, Next.js, Angular, TypeScript, Tailwind CSS
+- Backend: Python (Django, Flask, FastAPI), Node.js (NestJS, ExpressJS)
+- Mobile: React Native, Expo
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+
+---
+
+## 🤖 AI Engineering
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+
+</div>
+
+- LLMs: OpenAI, Llama, Mistral, HuggingFace, LangChain, RAG
+- ML Libraries: PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy
+- MLOps: MLflow, DVC, Airflow, Prefect
+- Specialties: Custom Chatbots, Fine-tuning, Computer Vision, NLP, Time Series
+
+---
+
+## ☁️ DevOps & Cloud Infrastructure
 
 <div align="center">
 
@@ -30,96 +65,11 @@
 
 </div>
 
-**Cloud Platforms:** AWS (EC2, ECS, Lambda, EKS, RDS, S3, CloudFront) • Azure • GCP • OpenStack  
-**Infrastructure as Code:** Terraform • AWS CDK • CloudFormation • Ansible  
-**CI/CD:** Jenkins • GitHub Actions • GitLab CI • Bitbucket Pipelines  
-**Monitoring:** ELK Stack • Prometheus • Grafana • CloudWatch • New Relic  
-**Networking:** BGP • EVPN VxLAN • SD-WAN • Network Automation
-
-### 🤖 **AI/ML & Data Engineering**
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-
-</div>
-
-**LLM & AI:** OpenAI • Llama • Mistral • LangChain • RAG • HuggingFace • CrewAI  
-**ML Libraries:** PyTorch • TensorFlow • Scikit-learn • XGBoost • Pandas • NumPy  
-**MLOps:** MLflow • DVC • Airflow • Prefect • Model Deployment & Monitoring  
-**Voice AI:** RetellAI • VapiAI • Deepgram • Twilio • Voiceflow  
-**Specialties:** Custom Chatbots • Fine-tuning • Computer Vision • NLP • Time Series
-
-### 💻 **Full-Stack Development**
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-**Frontend:** React • Next.js • Vue • Svelte • Angular • TypeScript • Tailwind CSS  
-**Backend:** Node.js • Python (Django/FastAPI) • Go • C# • PHP (Laravel)  
-**Databases:** PostgreSQL • MySQL • MongoDB • Redis • Firebase • Supabase  
-**Mobile:** React Native • Flutter • Expo • iOS (Swift) • Android (Kotlin)  
-**Blockchain:** Solidity • Rust • Web3.js • DeFi • Smart Contracts
-
----
-
-## 🎯 Core Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ **Infrastructure & DevOps**
-- **Cloud Architecture** - Multi-cloud, hybrid solutions
-- **Container Orchestration** - Kubernetes, Docker Swarm
-- **Infrastructure Automation** - Terraform, Ansible, CDK
-- **CI/CD Pipelines** - GitOps, automated deployments
-- **Monitoring & Observability** - Full-stack monitoring
-
-</td>
-<td width="50%">
-
-### 🧠 **AI & Machine Learning**
-- **LLM Integration** - Custom AI solutions, RAG systems
-- **MLOps** - Model deployment, monitoring, versioning
-- **Voice AI** - Conversational AI, speech processing
-- **Computer Vision** - Image processing, object detection
-- **Data Engineering** - ETL pipelines, feature engineering
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 What I Bring
-
-\`\`\`yaml
-Philosophy: "Automate everything, monitor everything, improve everything"
-Approach: Infrastructure as Code + AI-First Development
-Focus: Scalable, maintainable, and intelligent systems
-Collaboration: Remote-first, clear communication, agile methodologies
-\`\`\`
-
----
-
-## 📈 Current Focus
-
-- 🔥 **AI-Powered DevOps** - Intelligent automation and monitoring
-- 🚀 **Serverless Architectures** - Event-driven, scalable solutions  
-- 🤖 **LLM Applications** - Custom AI solutions for business problems
-- 📊 **MLOps Platforms** - End-to-end ML lifecycle management
+- Cloud: AWS, Azure, GCP
+- IaC: Terraform, AWS CDK, CloudFormation, Ansible
+- CI/CD: GitHub Actions, GitLab CI, Jenkins
+- Containerization: Docker, Kubernetes
+- Monitoring: Prometheus, Grafana, CloudWatch
 
 ---
 
@@ -128,6 +78,7 @@ Collaboration: Remote-first, clear communication, agile methodologies
 ### 💬 Let's Connect!
 
 **Always learning, always building, ready for the next challenge!**
+
 </div>
 
 ---
