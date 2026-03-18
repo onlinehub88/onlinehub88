@@ -10,9 +10,9 @@
 
 ## 💻 Full-Stack Development
 
-- **Languages:** Python, Java, JavaScript, TypeScript, Go, SQL
+- **Languages:** Python, C#, .NET, JavaScript, TypeScript, Go, SQL
 - **Frontend:** React, Next.js (App Router), Angular, React Native, TypeScript, Redux Toolkit, Tailwind CSS, responsive UIs
-- **Backend:** FastAPI, Flask, Spring Boot, Django, Node.js, Express, NestJS, REST/GraphQL, Celery, Redis, WebSockets
+- **Backend:** FastAPI, Flask, Django, .NET Core, Entity Framework, Node.js, Express, NestJS, Spring Boot, REST/GraphQL, Celery, Redis, WebSockets
 - **Mobile:** React Native, Expo
 - **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Supabase
 - **Data:** ETL pipelines, real-time analytics
