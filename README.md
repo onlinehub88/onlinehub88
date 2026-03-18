@@ -14,7 +14,7 @@
 - **Frontend:** React, Next.js (App Router), Angular, React Native, TypeScript, Redux Toolkit, Tailwind CSS, responsive UIs
 - **Backend:** FastAPI, Flask, Django, .NET Core, Entity Framework, Node.js, Express, NestJS, Spring Boot, REST/GraphQL, Celery, Redis, WebSockets
 - **Mobile:** React Native, Expo
-- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Supabase
+- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Supabase, Firebase
 - **Data:** ETL pipelines, real-time analytics
 - **Practices:** TDD, Agile/Scrum, Jira, Git, cross-functional collaboration
 
@@ -22,7 +22,6 @@
 
 ## 🤖 AI Engineering
 
-- **Languages:** Python, Java, JavaScript, TypeScript, Go, SQL
 - **AI & GenAI:** LangChain, LangGraph, CrewAI, MCP, RAG, embeddings, semantic search, vector DBs (Pinecone, FAISS), prompt engineering, LLM routing (GPT-4, Claude, Mistral, Gemini), LangSmith, multi-agent workflows, speech I/O (Retell.ai, LiveKit, Deepgram, ElevenLabs)
 - **LLMs:** OpenAI, Llama, Mistral, HuggingFace, LangChain, RAG
 - **ML Libraries:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy
